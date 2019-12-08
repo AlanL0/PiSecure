@@ -51,7 +51,7 @@ presence = 0
 
 # Pushbullet status check
 WORKING_DIR="/home/pi/Desktop/PiSecure/"
-
+#added in file_update() function to try to simulate real-time messaging in python
 def file_update():
         f = open("/home/pi/Desktop/PiSecure/test.txt","r")
         read=f.readlines()
