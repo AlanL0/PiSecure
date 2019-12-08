@@ -1,4 +1,4 @@
-# PiSecure
+# PiSecure By AlanL0 <img src="https://github.com/AlanL0/AlanL0.github.io/blob/master/img/logo2.png" width="100" height="100">
 This is a project mainly for utilizing my RaspberryPi 3B and a camera module as a responsive Security Camera. 
 Thanks to different Guides from [PyImageSearch](pyimagesearch.com) and from [Hackster.io](https://www.hackster.io/KennyHo2911/camera-alert-application-with-raspberry-pi-3-ios-android-881bb4),
 I implemented a Security Camera that communicates with Pushbullet API and uploads images straight to Dropbox.
